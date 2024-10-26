@@ -1,5 +1,7 @@
 ### Introduction
 
+blabla
+
 Git basics are very straightforward, but it sometimes feels like a bottomless pit when you find yourself on the wrong side of a confusing error situation. It's doubly frustrating because you think that messing up or trying the wrong solution can lose data. It's actually very hard to "lose" data with Git but it can certainly be hiding somewhere you wouldn't think to look without an experienced dev poking around.
 
 The thing about Git is that, unless you've got a seriously impressive memory, you can't just master it by reading about it; you need hands-on practice! For example, find a problem you want to fix, run into a merge error, and then dive into Google to learn a new Git technique along the way to help you fix that problem.
